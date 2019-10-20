@@ -1,2 +1,11 @@
-# disco_python
-Docker image of ubuntu disco, python 3.6, python 3.7 and python 3.8
+# Minimal Docker Image: disco, python 3.7
+
+[![DockerBuildstatus](https://img.shields.io/docker/cloud/build/khau/disco_python.svg)](https://hub.docker.com/r/khau/disco_python/)
+[![DockerBuildstatus](https://img.shields.io/docker/cloud/automated/khau/disco_python.svg)](https://hub.docker.com/r/khau/disco_python/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/khau/disco_python.svg)](https://hub.docker.com/r/khau/disco_python.svg)
+[![Docker Stars](https://img.shields.io/docker/stars/khau/disco_python.svg)](https://hub.docker.com/r/khau/disco_python.svg)
+
+
+## Tags
+
+* `1.0.0`: Ubunutu 19.04, Python 3.7
