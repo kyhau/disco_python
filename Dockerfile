@@ -31,7 +31,7 @@ RUN apt update && apt install -y \
 ################################################################################
 # Install Python
 
-RUN apt install -y
+RUN apt install -y \
     python3.7-dev \
     python3-dev=3.7.\*
 
