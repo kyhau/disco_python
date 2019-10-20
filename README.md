@@ -8,4 +8,4 @@
 
 ## Tags
 
-* `1.0.0`: Ubunutu 19.04, Python 3.7
+* `1.0.0`: Ubunutu 19.04, Python 3.7, Docker-ce-19.*
