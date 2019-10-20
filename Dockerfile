@@ -36,12 +36,6 @@ RUN apt install -y
     python3-dev=3.7.\*
 
 # TODO Install python 3.8
-#RUN add-apt-repository -y ppa:deadsnakes/ppa
-#RUN apt update && apt install -y \
-#    python3.7-dev \
-#    python3.8-dev \
-#    python3.8-distutils \
-#    python3-dev=3.7.\*
 
 # Install pip via PyPA's recommended way rather than the outdated apt repos
 # See: https://pip.pypa.io/en/stable/installing/
