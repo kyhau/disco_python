@@ -1,4 +1,4 @@
-FROM ubuntu:19.04
+FROM ubuntu:23.04
 LABEL maintainer="virtualda@gmail.com"
 
 RUN apt update && apt install -y \
